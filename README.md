@@ -13,7 +13,7 @@ Repository for my CppCon 2022 talks.
 
 ## Debug performance is improving: what now? *(Lightning talk)*
 
-* [~Slides~](TODO)
+* [Slides](debugperformance.pdf)
 
 * [~YouTube video~](TODO)
 
