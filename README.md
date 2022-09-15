@@ -6,7 +6,7 @@ Repository for my CppCon 2022 talks.
 
 * [Abstract](https://cppcon.digital-medium.co.uk/session/2022/pragmatic-simplicity/)
 
-* [~Slides~](TODO)
+* [Slides](pragmaticsimplicity.pdf)
 
 * [~YouTube video~](TODO)
 
