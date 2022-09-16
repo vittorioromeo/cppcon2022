@@ -20,7 +20,7 @@ Repository for my CppCon 2022 talks.
 
 ## `majsdown`: Metaprogramming? In my slides? *(Lightning talk)*
 
-* [~Slides~](TODO)
+* [Slides](majsdown.pdf)
 
 * [~YouTube video~](TODO)
 
