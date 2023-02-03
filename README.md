@@ -8,7 +8,7 @@ Repository for my CppCon 2022 talks.
 
 * [Slides](pragmaticsimplicity.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=3eH7JRgLnG8)
 
 
 ## Debug performance is improving: what now? *(Lightning talk)*
