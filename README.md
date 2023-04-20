@@ -15,12 +15,11 @@ Repository for my CppCon 2022 talks.
 
 * [Slides](debugperformance.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=CfbuJAAwA8Y)
 
 
 ## `majsdown`: Metaprogramming? In my slides? *(Lightning talk)*
 
 * [Slides](majsdown.pdf)
 
-* [~YouTube video~](TODO)
-
+* [YouTube video](https://www.youtube.com/watch?v=vbhaZHpomg0)
